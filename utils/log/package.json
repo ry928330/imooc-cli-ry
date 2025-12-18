@@ -1,0 +1,32 @@
+{
+  "name": "@imooc-cli-ry/log",
+  "version": "1.0.0",
+  "description": "imooc cli log",
+  "keywords": [
+    "log"
+  ],
+  "homepage": "https://github.com/ry928330/imooc-cli-ry#readme",
+  "bugs": {
+    "url": "https://github.com/ry928330/imooc-cli-ry/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ry928330/imooc-cli-ry.git"
+  },
+  "license": "ISC",
+  "author": "ranyu <ranyu@pwrd.com>",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/@imooc-cli-ry/log.test.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
