@@ -14,7 +14,7 @@
     "url": "git+https://github.com/ry928330/imooc-cli-ry.git"
   },
   "license": "ISC",
-  "author": "ranyu <ranyu@pwrd.com>",
+  "author": "ranyu <https://github.com/ry928330>",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib",
